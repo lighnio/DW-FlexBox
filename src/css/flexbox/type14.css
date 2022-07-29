@@ -1,0 +1,10 @@
+.contenedor-flexbox{
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:flex-start;
+    align-items:stretch;
+    }
+    .elemento{
+    width:21%;
+    }
