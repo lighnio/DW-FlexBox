@@ -1,0 +1,9 @@
+.contenedor-flexbox{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    }
+    .elemento{
+    width:21%;
+    }
