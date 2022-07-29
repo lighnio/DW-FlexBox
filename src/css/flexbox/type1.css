@@ -1,0 +1,6 @@
+.contenedor-flexbox{
+    display:flex;
+    }
+    .elemento{
+    width:25%;
+    }
