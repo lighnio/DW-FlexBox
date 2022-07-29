@@ -1,0 +1,4 @@
+.contenedor-flexbox{
+    display:flex;
+    flex-direction:column;
+    }
